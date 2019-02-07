@@ -5,11 +5,14 @@ https://github.com/jingzhaomirror/capstone2_hybrid_yelp_recommender <br>
 ## Table of Contents
 
 ### SQL 
-SQL queries: https://github.com/jingzhaomirror/springboard/blob/master/miniproject_sql.sql <br>
+SQL queries: <br>
+https://github.com/jingzhaomirror/springboard/blob/master/miniproject_sql.sql <br>
 
 ### Data Acqusition
-JSON manipulation & extraction: https://github.com/jingzhaomirror/springboard/blob/master/miniproject_json_exercise.ipynb <br>
-API & Requests package: https://github.com/jingzhaomirror/springboard/blob/master/miniproject_api_data_wrangling.ipynb <br>
+JSON manipulation & extraction: <br> 
+https://github.com/jingzhaomirror/springboard/blob/master/miniproject_json_exercise.ipynb <br>
+API & Requests package: <br>
+https://github.com/jingzhaomirror/springboard/blob/master/miniproject_api_data_wrangling.ipynb <br>
 
 ### Statistics
 Experimental design & Hypothesis testing & Normality test: <br> https://github.com/jingzhaomirror/springboard/blob/master/miniproject_body_temperature_statistics_1.ipynb <br>
@@ -17,17 +20,22 @@ https://github.com/jingzhaomirror/springboard/blob/master/miniproject_racial_dis
 https://github.com/jingzhaomirror/springboard/blob/master/miniproject_hospital_readmit_statistics_3.ipynb <br>
 
 ### Supervised Learning:
-Linear regression: https://github.com/jingzhaomirror/springboard/blob/master/miniproject_linearregression_bostonhousing.ipynb <br>
-Logistic regression: https://github.com/jingzhaomirror/springboard/blob/master/miniproject_logisticregression_heighweightandgender.ipynb <br>
-Naive bayes: https://github.com/jingzhaomirror/springboard/blob/master/miniproject_naivebayes_moviereviews.ipynb <br>
+Linear regression: <br> https://github.com/jingzhaomirror/springboard/blob/master/miniproject_linearregression_bostonhousing.ipynb <br>
+Logistic regression: <br> https://github.com/jingzhaomirror/springboard/blob/master/miniproject_logisticregression_heighweightandgender.ipynb <br>
+Naive bayes: <br>
+https://github.com/jingzhaomirror/springboard/blob/master/miniproject_naivebayes_moviereviews.ipynb <br>
 
 ### Unsupervised Learning:
-Clustering: https://github.com/jingzhaomirror/springboard/blob/master/miniproject_clustering_customersegmentation.ipynb <br>
+Clustering: <br>
+https://github.com/jingzhaomirror/springboard/blob/master/miniproject_clustering_customersegmentation.ipynb <br>
 
 ### Big Data Tools
-MapReduce using PySpark: https://github.com/jingzhaomirror/springboard/blob/master/miniproject_pyspark.ipynb <br>
-Spark Databricks: https://github.com/jingzhaomirror/springboard/blob/master/miniproject_spark_databricks.ipynb <br>
+MapReduce using PySpark: <br>
+https://github.com/jingzhaomirror/springboard/blob/master/miniproject_pyspark.ipynb <br>
+Spark Databricks: <br>
+https://github.com/jingzhaomirror/springboard/blob/master/miniproject_spark_databricks.ipynb <br>
 
 ### Take-home Challenges
-Ultimate challenges: 
-Relax challenges: 
+Ultimate challenges: <br>
+
+Relax challenges: <br>
