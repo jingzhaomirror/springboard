@@ -19,13 +19,13 @@ Experimental design & Hypothesis testing & Normality test: <br> https://github.c
 https://github.com/jingzhaomirror/springboard/blob/master/miniproject_racial_discrimination_statistics_2.ipynb <br>
 https://github.com/jingzhaomirror/springboard/blob/master/miniproject_hospital_readmit_statistics_3.ipynb <br>
 
-### Supervised Learning:
+### Supervised Learning
 Linear regression: <br> https://github.com/jingzhaomirror/springboard/blob/master/miniproject_linearregression_bostonhousing.ipynb <br>
 Logistic regression: <br> https://github.com/jingzhaomirror/springboard/blob/master/miniproject_logisticregression_heighweightandgender.ipynb <br>
 Naive bayes: <br>
 https://github.com/jingzhaomirror/springboard/blob/master/miniproject_naivebayes_moviereviews.ipynb <br>
 
-### Unsupervised Learning:
+### Unsupervised Learning
 Clustering: <br>
 https://github.com/jingzhaomirror/springboard/blob/master/miniproject_clustering_customersegmentation.ipynb <br>
 
