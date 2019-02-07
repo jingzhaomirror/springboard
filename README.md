@@ -37,7 +37,7 @@ https://github.com/jingzhaomirror/springboard/blob/master/miniproject_spark_data
 
 ### Take-home Challenges
 Ultimate challenges: https://github.com/jingzhaomirror/springboard/tree/master/ultimate_challenge <br>
-<\tab>Part I: Exploratory data analysis<br>
+p {text-indent: 2em;} Part I: Exploratory data analysis<br>
     Part II: Experiment and metrics design<br>
     Part III: Predictive modeling<br>
 Relax challenges: <br>
