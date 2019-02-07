@@ -40,6 +40,7 @@ https://github.com/jingzhaomirror/springboard/blob/master/miniproject_spark_data
     Part I: Exploratory data analysis<br>
     Part II: Experiment and metrics design<br>
     Part III: Predictive modeling<br>
+<br>
 **Relax challenges:** https://github.com/jingzhaomirror/springboard/tree/master/relax_challenge <br>
     Report: https://github.com/jingzhaomirror/springboard/blob/master/relax_challenge/relax_challenge_report.pdf <br>
     Notebook: https://github.com/jingzhaomirror/springboard/blob/master/relax_challenge/relax_challenge_notebook.ipynb <br>
