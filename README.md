@@ -36,8 +36,10 @@ Spark Databricks: <br>
 https://github.com/jingzhaomirror/springboard/blob/master/miniproject_spark_databricks.ipynb <br>
 
 ### Take-home Challenges
-Ultimate challenges: https://github.com/jingzhaomirror/springboard/tree/master/ultimate_challenge <br>
-p {text-indent: 2em;} Part I: Exploratory data analysis<br>
+**Ultimate challenges:** https://github.com/jingzhaomirror/springboard/tree/master/ultimate_challenge <br>
+    Part I: Exploratory data analysis<br>
     Part II: Experiment and metrics design<br>
     Part III: Predictive modeling<br>
-Relax challenges: <br>
+**Relax challenges:** https://github.com/jingzhaomirror/springboard/tree/master/relax_challenge <br>
+    Report: https://github.com/jingzhaomirror/springboard/blob/master/relax_challenge/relax_challenge_report.pdf <br>
+    Notebook: https://github.com/jingzhaomirror/springboard/blob/master/relax_challenge/relax_challenge_notebook.ipynb <br>
