@@ -3,7 +3,7 @@ This repository hosts all projects/assignments completed as part of the Springbo
 https://github.com/jingzhaomirror/capstone2_hybrid_yelp_recommender <br>
 
 ## Table of Contents
-<img src="data/illustration.png" height="300" width="900">
+<img src="data/illustration.png" height="250" width="850">
 
 ### SQL 
 SQL queries: <br>
